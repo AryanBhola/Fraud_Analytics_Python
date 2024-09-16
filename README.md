@@ -59,4 +59,3 @@ By understanding the CFO's concerns and focusing on key metrics, we can design a
 
 ---
 
-**Ready to get started?** Join data analysts who use advanced AI to build world-class fraud detection systems.
