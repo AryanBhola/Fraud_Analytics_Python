@@ -1,7 +1,6 @@
 
 # Online Fraud Analytics Python Use Case
 
-**Date**: February 20, 2024
 
 ## Overview
 Fraud remains a critical issue for financial institutions, leading to billions of dollars in losses annually. As digital transactions increase, so does the need for robust fraud detection systems. In this project, we explore how data analysis can aid in detecting fraudulent activities and help safeguard financial integrity. This use case is designed with the Chief Financial Officer (CFO) in mind, focusing on providing actionable insights to mitigate fraud.
